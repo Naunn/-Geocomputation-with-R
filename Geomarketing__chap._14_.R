@@ -1,0 +1,6 @@
+library(sf)
+library(dplyr)
+library(purrr)
+library(raster)
+library(osmdata)
+library(spDataLarge)
